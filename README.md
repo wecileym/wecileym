@@ -6,7 +6,7 @@
 
 <div align="left">
 
-### Hi there 🤗👋🏻 **My name is Wecileym** 
+### Hi there 🤗👋🏻 **My name is Weciley Mariano** 
 
 🎓 I am graduating in **Systems Analysis and Development**.
 
