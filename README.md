@@ -31,8 +31,6 @@
 src="https://user-images.githubusercontent.com/114785143/197361098-8adebbf7-419e-44ee-bf97-35401bd467df.gif">
 <img align="center" src="https://user-images.githubusercontent.com/5232616/59125272-a90d0780-8916-11e9-9ef7-3c0c12205a71.gif" width="200"/>
 
-![Animação da cobra](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-
 </div>
 
 [Gráfico de Atividade no GitHub](https://activity-graph.herokuapp.com/graph?username=wecileym&bg_color=000000&color=F74C76&line=fa7f72&point=f08080&area=true&hide_border=true&radius=11)
