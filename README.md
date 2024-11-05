@@ -8,7 +8,7 @@
 
 ### Olá 🤗👋🏻 **Meu nome é Weciley Mariano** 
 
-🎓 Estou me formando em **Análise e Desenvolvimento de Sistemas**.
+🎓 Estou me formando em **Análise e Desenvolvimento de Sistemas na Multivix**.
 
 💼 Sou apaixonado por tecnologia e desenvolvimento de software, especialmente **programação em Python** e **análise de dados**.
 
