@@ -6,9 +6,9 @@
 
 <div align="left">
 
-### Hi there 🤗👋🏻 **My name is Weciley Mariano** 
+### Hi there 🤗👋🏻 **My name is Wecileym** 
 
-🎓 I study **Data Analysis** and recently graduated in **Systems Analysis and Development**.
+🎓 I am graduating in **Systems Analysis and Development**.
 
 💼 I am passionate about technology and software development, especially **Python programming** and **data analytics**.
 
