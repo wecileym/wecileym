@@ -26,12 +26,6 @@
    <a href="https://www.instagram.com/wecileym/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:marianoweciley@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/weciley-mariano-493b4a255?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-<img align="center" height="133" style="border-radius:50px;"
-src="https://user-images.githubusercontent.com/114785143/197361098-8adebbf7-419e-44ee-bf97-35401bd467df.gif">
-<img align="center" src="https://user-images.githubusercontent.com/5232616/59125272-a90d0780-8916-11e9-9ef7-3c0c12205a71.gif" width="200"/>
-
-</div>
 
 [Gráfico de Atividade no GitHub](https://activity-graph.herokuapp.com/graph?username=wecileym&bg_color=000000&color=F74C76&line=fa7f72&point=f08080&area=true&hide_border=true&radius=11)
 
