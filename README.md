@@ -22,6 +22,7 @@
    <a href="https://www.linkedin.com/in/weciley-mariano-493b4a255?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    
    <!-- Novas badges -->
+   <a href="#"><img src="https://img.shields.io/badge/-Python-%231572B6?style=for-the-badge&logo=python&logoColor=white" target="_blank"></a>
    <a href="#"><img src="https://img.shields.io/badge/-SQL-%230074A3?style=for-the-badge&logo=sqlite&logoColor=white" target="_blank"></a>
    <a href="#"><img src="https://img.shields.io/badge/-HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a>
    <a href="#"><img src="https://img.shields.io/badge/-CSS-%231572B6?style=for-the-badge&logo=css3&logoColor=white" target="_blank"></a>
